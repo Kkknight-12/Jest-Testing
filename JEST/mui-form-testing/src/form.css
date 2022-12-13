@@ -1,0 +1,20 @@
+.formContainer
+{
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* width: 320px; */
+    padding-top: 20px;
+}
+.InputContainer
+{
+    margin: 10px;
+    display: flex;
+    /* justify-items: center; */
+    justify-content: space-between;
+}
+.inputDiv
+{
+    margin-left: 20px;
+    margin-right: 20px;
+}
